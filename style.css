@@ -970,6 +970,12 @@ ul.home-dropdown ul li a {
 	position: relative;
 	margin-right: 2%;
 }
+.teacher-inner-text span{
+	font-family: 'Rubik', sans-serif;
+	color: #fff;
+	margin: 0 12px;
+	transition: .5s;
+}
 .teacher-box:last-child{
 	margin-right: 0;
 }
